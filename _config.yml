@@ -1,19 +1,4 @@
-name: Gerry Morgan
-favicon: null
-layout_spectrum: 0.9393215370364487
 typography_spectrum: 0.1352843325585127
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ADD7F6'
@@ -25,4 +10,20 @@ color:
   lightness: 0.07259693020023406
   saturation: 0.37493002065457404
   rhythmicContrast: 0.001120253000408411
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.9393215370364487
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Gerry Morgan
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+description: It takes a Global Village to Raise a Global Citizen
 purpose: []
